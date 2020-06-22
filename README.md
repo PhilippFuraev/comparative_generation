@@ -3,6 +3,7 @@
 The task was to generate a human-like response from structured information (comparing objects, aspects and their sentences) and to measure it is quality using ROUGE-score. In your experiments we have used template generation, text-rank summarization and GPT-2 and CTRL models.
 
 ## Brief results
+Here are the results for ROUGE score between answers gathered from Quora and generated answers. 
 | Model               | ROUGE-1 F | ROUGE-2 F | ROUGE-l F |
 | ------------------- |:---------:|:---------:|:---------:|
 | Short_tmpl          | 0.15      | 0.02      | 0.15      |
